@@ -1,4 +1,4 @@
-program pitot_static_tube
+program pitot_static_tube  //standard atmospheric temperature 
  implicit none
  real::Velocity,static_pressure,Total_Pressure,Density,V
  print*, "Please enter the static pressure: "
